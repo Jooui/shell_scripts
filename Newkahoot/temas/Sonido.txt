@@ -1,0 +1,4 @@
+el formato mp3 es comprimido?:no:si:no es un formato::2
+mkv es un formato de audio?:Si:Si, pero no es comprimido:no es un formato:no:4
+El formato mp4 solo reproduce audio?:Si:No:No:No:1
+Opcion correcta num 1?:si:no:no:no:1
